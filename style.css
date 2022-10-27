@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.wrapper > div{
+    display: flex;
+    flex-direction: column;
+}
+.wrapper div {
+    margin-bottom: 20px;
+}
+label{
+    font-size: 20px;
+}
